@@ -9,10 +9,11 @@ $navbar-default-color: 		#fff;
 $navbar-default-link-color : 	#fff;
 $navbar-default-link-hover-color: grey;
 $navbar-default-toggle-hover-bg: #c0392b;
-$navbar-default-toggle-icon-bar-bg: #fff; 
+$navbar-default-toggle-icon-bar-bg: #fff;
 $navbar-default-toggle-border-color: #e74c3c;
 $jumbotron-bg: #fff;
 
+@import "bootstrap-sprockets";
 @import 'bootstrap';
 
 .center {
